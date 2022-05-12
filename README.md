@@ -1,4 +1,5 @@
 # Repositório Treinamento Data Science Boticário
+___
 
 ![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-002050?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
